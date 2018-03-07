@@ -1,3 +1,3 @@
 # PoliceTest
 刑侦科推理试题
-![image](https://github.com/icer-CHN/PoliceTest/pic.jpeg)
+![image](https://github.com/icer-CHN/PoliceTest/blob/master/pic.jpeg)
